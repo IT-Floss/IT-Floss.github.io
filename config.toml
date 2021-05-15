@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://it-floss.github.io/"
 languageCode = "en-us"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
