@@ -1,4 +1,4 @@
-baseURL = "http://it-floss.github.io/"
+baseURL = "https://itfloss.beer/"
 languageCode = "en-us"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
