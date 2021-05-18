@@ -1,11 +1,11 @@
 ---
-title: "LUCHO es lo mas"
+title: "Heroes so far"
 date: 2021-05-15T18:19:59-03:00
 draft: false
 ---
 
-# Heroes so far
+# El gran Lucho
+Hacedor de las automagicas acciones que posibilitan el sitio
 
-El gran Lucho
-El poderoso Pablo
-
+# El poderoso Pablo
+quien nos ha otorgado la posibilida de ser orgullosamente llamados [itfloss.beer](https://itfloss.beer)
