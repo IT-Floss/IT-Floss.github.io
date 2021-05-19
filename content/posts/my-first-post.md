@@ -5,7 +5,7 @@ draft: false
 ---
 
 # El gran Lucho
-Hacedor de las automagicas acciones que posibilitan el sitio
+Hacedor de las automagicas acciones que posibilitan el sitio.
 
 # El poderoso Pablo
 quien nos ha otorgado la posibilida de ser orgullosamente llamados [itfloss.beer](https://itfloss.beer)
