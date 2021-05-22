@@ -1,7 +1,5 @@
 # How to collab
 
-# Cómo colaborar en un proyecto en GitHub
-
 *   Fork del repositorio
 *   Clonar el fork del repositorio
 *   Actualizar la rama master
@@ -42,7 +40,7 @@ Esperar a que el dueño del repositorio lo revise, acepte y mezcle en la rama co
 
 
 ## Tools
+- https://gohugo.io/variables/page/
 - https://dillinger.io/
 - https://github.com/mundimark/awesome-markdown-editors
-- https://github.com/SohanChy/Lipi
-- 
+- https://github.com/SohanChy/Lipi- 
