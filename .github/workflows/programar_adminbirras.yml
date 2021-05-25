@@ -44,8 +44,8 @@ jobs:
     steps:
       
     - uses: actions/checkout@v1
-    - name: checkout a main-fork
-      run: git checkout main-fork
+    - name: checkout a main
+      run: git checkout main
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
@@ -53,7 +53,7 @@ jobs:
     - name: Run a one-line script
       run: ./itfloss create adminbirras -f "${{ github.event.inputs.fecha }}" -l "${{ github.event.inputs.lugar }}" -t "${{ github.event.inputs.titulo }}" -n "$(date +%F)"
     - name: switching from HTTPS to SSH
-      run: git remote set-url origin git@github.com:chanix95/IT-Floss.github.io.git
+      run: git remote set-url origin git@github.com:IT-Floss/IT-Floss.github.io.git
     - name: Setting ssh key
       run: |
         mkdir -p ~/.ssh
@@ -66,8 +66,8 @@ jobs:
       run: git add .
     - name: commit changed files
       run: |
-        git config --local user.email "lucianolio@protonmail.com"
-        git config --local user.name "Luciano Lionello"
+        git config --local user.email "it-floss@itfloss.beer"
+        git config --local user.name "IT Floss"
         git commit -m "Programando admin birras"
     - name: Push changes
-      run: git push origin HEAD:main-fork
+      run: git push origin HEAD:main
