@@ -53,7 +53,7 @@ jobs:
     - name: Run a one-line script
       run: ./itfloss create adminbirras -f "${{ github.event.inputs.fecha }}" -l "${{ github.event.inputs.lugar }}" -t "${{ github.event.inputs.titulo }}" -n "$(date +%F)"
     - name: switching from HTTPS to SSH
-      run: git remote set-url origin git@github.com:chanix95/IT-Floss-site.git
+      run: git remote set-url origin git@github.com:chanix95/IT-Floss.github.io.git
     - name: Setting ssh key
       run: |
         mkdir -p ~/.ssh
