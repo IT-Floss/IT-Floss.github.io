@@ -21,61 +21,20 @@ categories:
   - TTT
 
 ---
-<span class="_4n-j _fbReactionComponent__eventDetailsContentTags fsl" data-testid="event-permalink-details">¡Desde IT Floss los invitamos a participar en una nueva edición de nuestras características Third Tuesday Talks! </span>
+¡Desde IT Floss los invitamos a participar en una nueva edición de nuestras características Third Tuesday Talks!
 
-<span class="_4n-j _fbReactionComponent__eventDetailsContentTags fsl" data-testid="event-permalink-details">
+![Bruno Geninatti](https://pbs.twimg.com/profile_images/765774213219319808/fgAAin-o_400x400.jpg)
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Bruno Geninatti">
-      <div class="imagen">
-        <img src="https://pbs.twimg.com/profile_images/765774213219319808/fgAAin-o_400x400.jpg" alt="Bruno Geninatti" />
-      </div>
-    </div>
-  </div>
+**Introducción a Python**
+-------------------------
+
   
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      <strong>Introducción a Python</strong>
-    </h2>
-    
-    <div class="charla_info">
-      <br /> Bruno Geninatti nos dará una introducción a Python, aprenderemos qué lo hace uno de los lenguajes más populares.<br /> </span></p> 
-      
-      <p>
-        </div></div></div>
-        
-        <div style="height:15px;">
-        </div>
-      </p>
-      
-      <p>
-        &nbsp;
-      </p>
-      
-      <p>
-        <span class="_4n-j _fbReactionComponent__eventDetailsContentTags fsl" data-testid="event-permalink-details">
-        
-        <div class="charla cf">
-          <div class="oradores">
-            <div class="orador" data-tooltip="Matías Barriento">
-              <div class="imagen">
-                <img src="https://pbs.twimg.com/profile_images/2000733444/Tucan_400x400.JPG" alt="Matías Barriento" />
-              </div>
-            </div>
-          </div>
-          
-          <div class="b_info">
-            <h2 class="charla_titulo">
-              <strong>Introducción a Django</strong>
-            </h2>
-            
-            <div class="charla_info">
-              <br /> Matías Barriento nos mostrará Django, uno de los framworks más populares para Python orientado al desarrollo web.</span></p> 
-              
-              <p>
-                </div></div></div>
-                
-                <div style="height:15px;">
-                </div>
-              </p>
+Bruno Geninatti nos dará una introducción a Python, aprenderemos qué lo hace uno de los lenguajes más populares.  
+
+![Matías Barriento](https://pbs.twimg.com/profile_images/2000733444/Tucan_400x400.JPG)
+
+**Introducción a Django**
+-------------------------
+
+  
+Matías Barriento nos mostrará Django, uno de los framworks más populares para Python orientado al desarrollo web.

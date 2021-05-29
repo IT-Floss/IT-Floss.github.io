@@ -29,3 +29,10 @@ googleAnalytics = "G-KNPLG4BVPJ"
     pre = "<i class='fa fa-heart'></i>"
     url = "/eventos/"
     weight = -90
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/posts/"
+    weight = -80

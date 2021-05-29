@@ -19,108 +19,41 @@ hora_fin:
 categories:
   - Eventos
 
----
-Exponemos brevemente algunos temas y conversamos al respecto las experiencias de cada uno.
 
-Nos juntamos en valdovina, en un ambiente relajado a disfrutar de bebida y comida mientras atendemos a las micro charlas.
+--- Exponemos brevemente algunos temas y conversamos al respecto las experiencias de cada uno. Nos juntamos en valdovina, en un ambiente relajado a disfrutar de bebida y comida mientras atendemos a las micro charlas.
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Fernando Villares">
-      <div class="imagen">
-        <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg" alt="Fernando Villares" />
-      </div>
-    </div>
-  </div>
+![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+
+Ecología y las tecnologías de la información
+--------------------------------------------
+
   
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      Ecología y las tecnologías de la información
-    </h2>
-    
-    <div class="charla_info">
-      <br /> Cómo mejorar la eficiencia energética en IT. Casos de éxitos y metodologías para obtener datos que nos permitan tomar decisiones<br /> 
-      
-      <div class="charla_descarga">
-        <a class="charla_boton_descarga" href="https://goo.gl/3pQ5W9" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-      </div>
-    </div>
-  </div>
-</div>
+Cómo mejorar la eficiencia energética en IT. Casos de éxitos y metodologías para obtener datos que nos permitan tomar decisiones  
 
-<div style="height:15px;">
-</div>
+[Descargar presentación](https://goo.gl/3pQ5W9)
 
-&nbsp;
+   
 
-&nbsp;
+![Sebastián Dominguez](https://itfloss.rocks/wp-content/themes/hummingBird/img/seba.jpg)
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Sebastián Dominguez">
-      <div class="imagen">
-        <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/seba.jpg" alt="Sebastián Dominguez" />
-      </div>
-    </div>
-  </div>
+Utilizando certificados SSL - Lets Encrypt / StartSSL
+-----------------------------------------------------
+
   
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      Utilizando certificados SSL - Lets Encrypt / StartSSL
-    </h2>
-    
-    <div class="charla_info">
-      <br /> Cómo implementar certificados gratuitos SSL para nuestros servicios webs. Ventajas y desventajas de los proveedores más utilizados.<br /> 
-      
-      <div class="charla_descarga">
-        <a class="charla_boton_descarga" href="https://goo.gl/dOBHYT" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-      </div>
-    </div>
-  </div>
-</div>
+Cómo implementar certificados gratuitos SSL para nuestros servicios webs. Ventajas y desventajas de los proveedores más utilizados.  
 
-<div style="height:15px;">
-</div>
+[Descargar presentación](https://goo.gl/dOBHYT)
 
-&nbsp;
+   
 
-&nbsp;
+![Ezequiel Cardinali](https://itfloss.rocks/wp-content/themes/hummingBird/img/eze.jpg)
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Ezequiel Cardinali">
-      <div class="imagen">
-        <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/eze.jpg" alt="Ezequiel Cardinali" />
-      </div>
-    </div>
-  </div>
+Introducción a Openstack
+------------------------
+
   
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      Introducción a Openstack
-    </h2>
-    
-    <div class="charla_info">
-      <br /> Introducción a los servicios y componentes de la plataforma OpenStack<br /> 
-      
-      <div class="charla_descarga">
-        <a class="charla_boton_descarga" href="https://goo.gl/gMQnZ6" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-      </div>
-    </div>
-  </div>
-</div>
+Introducción a los servicios y componentes de la plataforma OpenStack  
 
-<div style="height:15px;">
-</div>
+[Descargar presentación](https://goo.gl/gMQnZ6)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-[Meetup: https://www.meetup.com/es-ES/FLOSS_Ros/events/233425679/][1]
-
- [1]: https://www.meetup.com/es-ES/FLOSS_Ros/events/233425679/
+        \[Meetup: https://www.meetup.com/es-ES/FLOSS\_Ros/events/233425679/\]\[1\] \[1\]: https://www.meetup.com/es-ES/FLOSS\_Ros/events/233425679/

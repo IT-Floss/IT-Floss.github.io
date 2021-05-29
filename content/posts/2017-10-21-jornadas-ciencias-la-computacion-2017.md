@@ -24,22 +24,11 @@ Los invitamos a participar de las XV jornadas de Ciencias de la Computación que
 
 Pueden ver las charlas y más información sobre este evento en el sitio oficial
 
-&nbsp;
+  http://jcc.dcc.fceia.unr.edu.ar/2017/  
 
-http://jcc.dcc.fceia.unr.edu.ar/2017/
+Certificado de asistencia
+-------------------------
 
-&nbsp;
-
-<div class="cont">
-  <h2>
-    Certificado de asistencia
-  </h2>
-  
-  <p>
-    De forma gratuita y totalmente opcional, se puede obtener un certificado de asistencia al evento inscribiéndose <b><a href="https://goo.gl/forms/9rnpkkR6zgS96Vn73" target="_blank" rel="noopener"> acá </a></b>.
-  </p>
-</div>
-
-&nbsp;
+De forma gratuita y totalmente opcional, se puede obtener un certificado de asistencia al evento inscribiéndose **[acá](https://goo.gl/forms/9rnpkkR6zgS96Vn73)** .
 
 Los esperamos!
