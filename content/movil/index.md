@@ -15,7 +15,6 @@ Somos una comunidad de sistemas con base en Rosario y alrededores, generamos pun
 
 Hacemos una reunión mensual el segundo jueves de cada mes. Asistimos y organizamos eventos relacionados a la tecnología de la información. A diario podés encontrarnos en [GITHUB](https://github.com/IT-Floss).
 
-
 # COMUNIDADES AMIGAS
 
 * * *
@@ -64,4 +63,3 @@ Estas comunidades ya son amigas de IT Floss, unite vos también desde nuestras r
 
   * Alejandro Brozzo &#8211; Typescript && ES6 ([Ver presentación)](https://goo.gl/cfEx4F)
   * Victoria Perdomo &#8211; Angular4 ([Ver ejemplos y demos)](https://goo.gl/WQQlUh)
-
