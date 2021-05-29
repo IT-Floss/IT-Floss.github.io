@@ -1,8 +1,14 @@
 baseURL = "https://itfloss.beer/"
-languageCode = "en-us"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
 googleAnalytics = "G-KNPLG4BVPJ"
+summaryLength = 40
+
+[params]
+site_logo = "/images/if-blanco.png"
+mainSections = ["eventos", "posts"] 
 
 [sitemap]
   changefreq = "monthly"
