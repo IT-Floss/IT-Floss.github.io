@@ -15,12 +15,14 @@ Somos una comunidad de sistemas con base en Rosario y alrededores, generamos pun
 
 Hacemos una [https://www.meetup.com/es-ES/FLOSS_Ros/events/](reunión mensual) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información. 
 A diario podés encontrarnos en las siguientes platafomas:
-* [FACEBOOK](https://web.facebook.com/itfloss/)
+* [DISCORD](https://discord.gg/HNFnB4VKZ9)
 * [TWITTER](https://twitter.com/IT_Floss)
 * [MEETUP](http://www.meetup.com/es-ES/FLOSS_Ros/) donde organizamos los eventos
-* [GITHUB](http://www.meetup.com/es-ES/FLOSS_Ros/) aqui construimos.
+* [GITHUB](https://github.com/IT-Floss) aqui construimos.
+* [Whatsapp & Telegram]
+<!--* [FACEBOOK](https://web.facebook.com/itfloss/)-->
 
-# COMUNIDADES AMIGAS
+<!--# COMUNIDADES AMIGAS
 
 * * *
 
@@ -32,4 +34,4 @@ Estas comunidades ya son amigas de IT Floss, unite vos también desde nuestras r
   * [MePES](https://www.facebook.com/MePasoEnSistemas)
   * [WordPress Rosario](https://www.meetup.com/es-ES/wordpress-rosario/)
 
-
+-->
