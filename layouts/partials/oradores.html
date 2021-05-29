@@ -1,0 +1,18 @@
+<div class="oradores__info">
+	<h3 class="oradores__titulo">Oradores</h3>
+	{{ range $orador := .oradores }}
+	<div class="orador__info" data-tooltip="{{ $orador.nombre }}">
+		{{ if isset $orador "image" }}
+		<div class="orador__imagen">
+			<img src={{ printf "%s" $orador.image}} alt={{ printf "%s" $orador.nombre }} />
+		</div>
+		{{ end }}
+		{{ if isset $orador "link" }}
+		<a href={{ printf "%s" $orador.link }} >{{ $orador.nombre }}</a>
+		{{ else }}
+		<p>{{ .nombre }}</p>
+		{{ end }}
+	</div>
+	{{ end }}
+</div>
+

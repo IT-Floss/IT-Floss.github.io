@@ -1,0 +1,73 @@
+# This is a basic workflow that is manually triggered
+
+name: Programar Admin Birras
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      lugar:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Lugar donde van a ser las admin birras'
+        # Default value if no value is explicitly provided
+        default: 'A confirmar'
+        # Input has to be provided for the workflow to run
+        required: false
+      fecha:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Fecha y hora de las admin birras'
+        # Default value if no value is explicitly provided
+        default: 'A confirmar'
+        # Input has to be provided for the workflow to run
+        required: false
+      titulo:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Titulo de la publicacion del evento'
+        # Default value if no value is explicitly provided
+        default: 'Admin Birras!'
+        # Input has to be provided for the workflow to run
+        required: false
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  adminbirras:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+
+    # Runs a single command using the runners shell
+
+      
+    steps:
+      
+    - uses: actions/checkout@v1
+    - name: checkout a main
+      run: git checkout main
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+    - name: Run a one-line script
+      run: ./itfloss create adminbirras -f "${{ github.event.inputs.fecha }}" -l "${{ github.event.inputs.lugar }}" -t "${{ github.event.inputs.titulo }}" -n "$(date +%F)"
+    - name: switching from HTTPS to SSH
+      run: git remote set-url origin git@github.com:IT-Floss/IT-Floss.github.io.git
+    - name: Setting ssh key
+      run: |
+        mkdir -p ~/.ssh
+        chmod 700 ~/.ssh
+        echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+    - name: check for changes
+      run: git status
+    - name: stage changed files
+      run: git add .
+    - name: commit changed files
+      run: |
+        git config --local user.email "it-floss@itfloss.beer"
+        git config --local user.name "IT Floss"
+        git commit -m "Programando admin birras"
+    - name: Push changes
+      run: git push origin HEAD:main
