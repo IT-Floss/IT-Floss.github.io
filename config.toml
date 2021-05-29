@@ -4,4 +4,4 @@ title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
 
 [params]
-mainSections = "evento"
+mainSections = "post"
