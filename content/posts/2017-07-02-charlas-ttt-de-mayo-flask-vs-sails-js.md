@@ -28,85 +28,24 @@ tags:
   - TTT
 
 ---
-Nuestra primera iteración en esto que hemos denominado Third Tuesday Talks.  
-En esta ocasión el evento contará con dos temáticas:
+Nuestra primera iteración en esto que hemos denominado Third Tuesday Talks. En esta ocasión el evento contará con dos temáticas:  
 
-&nbsp;
+![Damián Pumar](https://itfloss.rocks/wp-content/themes/hummingBird/img/damian_pumar.jpg)
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Damián Pumar">
-      <div class="imagen">
-        <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/damian_pumar.jpg" alt="Damián Pumar" />
-      </div>
-    </div>
-  </div>
-  
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      <b>Sails.js</b>
-    </h2>
-    
-    <div class="charla_info">
-      </p> 
-      
-      <p>
-        Damián Pumar nos muestra las características del Framework Sails.js.
-      </p>
-      
-      <p>
-        <div class="charla_descarga">
-          <a class="charla_boton_descarga" href="https://goo.gl/hRnviD" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-        </div></div></div></div>
-        
-        <div style="height:15px;">
-        </div>
-        
-        <p>
-          &nbsp;
-        </p>
-        
-        <div class="charla cf">
-          <div class="oradores">
-            <div class="orador" data-tooltip="Matías Barriento">
-              <div class="imagen">
-                <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/matias_barriento.jpg" alt="Matías Barriento" />
-              </div>
-            </div>
-          </div>
-          
-          <div class="b_info">
-            <h2 class="charla_titulo">
-              <b>Flask</b>
-            </h2>
-            
-            <div class="charla_info">
-              </p> 
-              
-              <p>
-                Matías Barriento explica las bondades de utilizar el framwork Flask
-              </p>
-              
-              <p>
-                <div class="charla_descarga">
-                  <a class="charla_boton_descarga" href="https://goo.gl/8thMws" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-                </div></div></div></div>
-                
-                <div style="height:15px;">
-                </div>
-                
-                <p>
-                  &nbsp;
-                </p>
-                
-                <p>
-                  &nbsp;
-                </p>
-                
-                <p>
-                  <a href="https://www.meetup.com/es-ES/FLOSS_Ros/events/238515235/">Meetup:https://www.meetup.com/es-ES/FLOSS_Ros/events/238515235/</a>
-                </p>
-                
-                <p>
-                  &nbsp;
-                </p>
+**Sails.js**
+------------
+
+Damián Pumar nos muestra las características del Framework Sails.js.
+
+[Descargar presentación](https://goo.gl/hRnviD)
+
+![Matías Barriento](https://itfloss.rocks/wp-content/themes/hummingBird/img/matias_barriento.jpg)
+
+**Flask**
+---------
+
+Matías Barriento explica las bondades de utilizar el framwork Flask
+
+[Descargar presentación](https://goo.gl/8thMws)
+
+[Meetup:https://www.meetup.com/es-ES/FLOSS\_Ros/events/238515235/](https://www.meetup.com/es-ES/FLOSS_Ros/events/238515235/)

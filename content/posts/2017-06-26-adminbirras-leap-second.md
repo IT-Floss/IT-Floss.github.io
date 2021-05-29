@@ -18,28 +18,12 @@ categories:
   - AdminBirras
 
 ---
-<div id="event-description-wrap" class="line redactor-description">
-  <p>
-    Porque ya no nos alcanza reunirnos una vez por mes.
-  </p>
-  
-  <p>
-    Porque volvimos re manija de Nerdear.la con un montón de para charlar !
-  </p>
-  
-  <p>
-    Porque hay ideas y novedades para contar y llevar adelante.
-  </p>
-  
-  <p>
-    Salen adminBirras &#8220;Agiles&#8221;.
-  </p>
-  
-  <p>
-    Como siempre, con el clima copado que se genera al tomar algo con todos ustedes.
-  </p>
-</div>
+Porque ya no nos alcanza reunirnos una vez por mes.
 
-&nbsp;
+Porque volvimos re manija de Nerdear.la con un montón de para charlar !
 
-&nbsp;
+Porque hay ideas y novedades para contar y llevar adelante.
+
+Salen adminBirras “Agiles”.
+
+Como siempre, con el clima copado que se genera al tomar algo con todos ustedes.
