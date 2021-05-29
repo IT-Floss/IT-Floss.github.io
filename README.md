@@ -14,7 +14,7 @@ El primer paso es hacer "Fork" del repositorio.
 
 Después de tener el repositorio en nuestra cuenta, seleccionar la dirección del repositorio "SSH o HTTP" y clonar:
 
-`$ git clone https://github.com/IT-Floss/IT-Floss.github.io.git`
+`$ git clone --recurse-submodules https://github.com/IT-Floss/IT-Floss.github.io.git`
 
 ## Hacer cambios
 
