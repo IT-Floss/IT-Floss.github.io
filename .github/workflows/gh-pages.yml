@@ -21,6 +21,11 @@ jobs:
           # extended: true
 
       - name: Build
+        if: github.repository == 'IT-Floss/IT-Floss.github.io'
+        run: hugo --minify
+
+      - name: Build on a fork repo
+        if: github.repository != 'IT-Floss/IT-Floss.github.io'
         run: hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/IT-Floss.github.io/
 
       - name: Deploy
