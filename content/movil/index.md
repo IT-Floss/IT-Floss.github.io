@@ -7,96 +7,61 @@ date: 2017-03-02T22:29:26+00:00
 ---
 Somos una comunidad de sistemas con base en Rosario y alrededores, generamos puntos de encuentro para la gente del mundo de la tecnología de la información. Si tenés ganas de compartir tus experiencias, conocer gente del palo o asistir a eventos informativos, te invitamos a sumarte.
 
-<div class="volver">
-  <a class="transicion" href="/coc">Ver código de conducta</a>
-</div>
+  [/coc](Ver código de conducta)
 
 # ¿ CÓMO PARTICIPAR ?
 
 * * *
 
-Hacemos una reunión mensual el segundo jueves de cada mes. Asistimos y organizamos eventos relacionados a la tecnología de la información. A diario podés encontrarnos en <a class="p_red" href="https://www.hamsterpad.com/chat/itfloss" target="_blank" rel="noopener">SLACK</a>, donde compartimos nuestras experiencias. También, estamos en <a class="p_red" href="https://web.facebook.com/itfloss/" target="_blank" rel="noopener">FACEBOOK</a>, <a class="p_red" href="https://twitter.com/IT_Floss" target="_blank" rel="noopener">TWITTER</a>, organizamos los eventos a través de <a class="p_red" href="http://www.meetup.com/es-ES/FLOSS_Ros/" target="_blank" rel="noopener">MEETUP</a> y los proyectos por medio de <a class="p_red" href="https://github.com/IT-Floss" target="_blank" rel="noopener">GITHUB</a>.
+Hacemos una reunión mensual el segundo jueves de cada mes. Asistimos y organizamos eventos relacionados a la tecnología de la información. A diario podés encontrarnos en [https://github.com/IT-Floss](GITHUB).
 
-&nbsp;
-
-&nbsp;
 
 # COMUNIDADES AMIGAS
 
 * * *
 
-Estas comunidades ya son amigas de IT Floss, unite vos también desde nuestras redes, o mandanos un correo a <hola@itfloss.rocks>{.p_red}.
+Estas comunidades ya son amigas de IT Floss, unite vos también desde nuestras redes.
 
-  * <a class="p_red" href="https://www.sysarmy.com.ar/" target="_blank" rel="noopener">sysarmy</a>
-  * <a class="p_red" href="http://www.asociacionagassi.org/" target="_blank" rel="noopener">AGASSI</a>
-  * <a class="p_red" href="https://www.syloper.com/" target="_blank" rel="noopener">Syloper</a>
-  * <a class="p_red" href="https://www.facebook.com/MePasoEnSistemas" target="_blank" rel="noopener">MePES</a>
-  * <a class="p_red" href="https://www.meetup.com/es-ES/wordpress-rosario/" target="_blank" rel="noopener">WordPress Rosario</a>
+  * [https://www.sysarmy.com.ar/](sysarmy). Somos chapter oficial Rosarino de la comunidad que da soporte a lso que dan soporte
+  * [http://www.asociacionagassi.org/](AGASSI)
+  * [https://www.syloper.com/](Syloper)
+  * [https://www.facebook.com/MePasoEnSistemas](MePES)
+  * [https://www.meetup.com/es-ES/wordpress-rosario/](WordPress Rosario)
 
-&nbsp;
-
-&nbsp;
 
 # EVENTOS
 
 * * *
 
-&nbsp;
+### MICRO CHARLAS &#8211; [https://goo.gl/photos/vtkGBBDhwCJAsfGLA](Ver galería)
 
-&nbsp;
+  * Fernando Villares &#8211; Ecología y las tecnologías de la información ([http://goo.gl/3pQ5W9](Ver presentación))
+  * Sebastián Dominguez &#8211; Experiencia con certificados SSL &#8211; Let&#8217;s encrypt / StartSSL ([http://goo.gl/dOBHYT](Ver presentación))
+  * Ezequiel M. Cardinali &#8211; Introducción a OpenStack ([http://goo.gl/gMQnZ6](Ver presentación))
 
-### MICRO CHARLAS &#8211; <a class="p_red" href="https://goo.gl/photos/vtkGBBDhwCJAsfGLA" target="_blank" rel="noopener">Ver galería</a>
+### MICRO SERVICIOS | POLO TECNOLÓGICO &#8211; [https://goo.gl/photos/SdwX8rtnFsxmdgZS9](Ver galería)
 
-  * Fernando Villares &#8211; Ecología y las tecnologías de la información (<a class="p_red" href="http://goo.gl/3pQ5W9" target="_blank" rel="noopener">Ver presentación</a>)
-  * Sebastián Dominguez &#8211; Experiencia con certificados SSL &#8211; Let&#8217;s encrypt / StartSSL (<a class="p_red" href="http://goo.gl/dOBHYT" target="_blank" rel="noopener">Ver presentación</a>)
-  * Ezequiel M. Cardinali &#8211; Introducción a OpenStack (<a class="p_red" href="http://goo.gl/gMQnZ6" target="_blank" rel="noopener">Ver presentación</a>)
+  * Sebastián Dominguez &#8211; Introducción a Microservicios ([https://goo.gl/5jw0N6](Ver presentación))
+  * Julián Butti &#8211; Google Firebase ([https://goo.gl/Ey26iX](Ver presentación))
+  * Sebastián Bressan &#8211; Amazon Web Services ([https://goo.gl/0OKeJP](Ver presentación))
 
-&nbsp;
+### TTT | 21/03/2017 &#8211; [https://goo.gl/photos/o95THXRo7ZumyUKP6](Ver galería)
 
-&nbsp;
-
-### MICRO SERVICIOS | POLO TECNOLÓGICO &#8211; <a class="p_red" href="https://goo.gl/photos/SdwX8rtnFsxmdgZS9" target="_blank" rel="noopener">Ver galería</a>
-
-  * Sebastián Dominguez &#8211; Introducción a Microservicios (<a class="p_red" href="https://goo.gl/5jw0N6" target="_blank" rel="noopener">Ver presentación</a>)
-  * Julián Butti &#8211; Google Firebase (<a class="p_red" href="https://goo.gl/Ey26iX" target="_blank" rel="noopener">Ver presentación</a>)
-  * Sebastián Bressan &#8211; Amazon Web Services (<a class="p_red" href="https://goo.gl/0OKeJP" target="_blank" rel="noopener">Ver presentación</a>)
-
-&nbsp;
-
-&nbsp;
-
-### TTT | 21/03/2017 &#8211; <a class="p_red" href="https://goo.gl/photos/o95THXRo7ZumyUKP6" target="_blank" rel="noopener">Ver galería</a>
-
-  * Fernando Villares &#8211; Seguridad sobre comunicaciones unificadas (VoIP) (<a class="p_red" href="https://goo.gl/hRnviD" target="_blank" rel="noopener">Ver presentación</a>)
-  * Ismael Ull && Lucas Olmedo && Jorge Benzaquen &#8211; IT Mannager toolbox (<a class="p_red" href="https://goo.gl/emmiE1" target="_blank" rel="noopener">Ver presentación</a>)
-
-&nbsp;
-
-&nbsp;
+  * Fernando Villares &#8211; Seguridad sobre comunicaciones unificadas (VoIP) ([https://goo.gl/hRnviD](Ver presentación))
+  * Ismael Ull && Lucas Olmedo && Jorge Benzaquen &#8211; IT Mannager toolbox ([https://goo.gl/emmiE1](Ver presentación))
 
 ### TTT | 18/04/2017
 
-  * Fernando Villares &#8211; Usos responsables de la información (<a class="p_red" href="https://goo.gl/PqkH6I" target="_blank" rel="noopener">Ver presentación</a>)
-  * Horacio Castellini &#8211; Introducción a R (<a class="p_red" href="https://goo.gl/DFOInR" target="_blank" rel="noopener">Ver presentación</a>)
+  * Fernando Villares &#8211; Usos responsables de la información ([https://goo.gl/PqkH6I](Ver presentación))
+  * Horacio Castellini &#8211; Introducción a R ([https://goo.gl/DFOInR](Ver presentación))
 
-&nbsp;
+### TTT | FLASK VS SAILS.JS &#8211; [https://goo.gl/KW1yL4](Ver galería)
 
-&nbsp;
+  * Damián Pumar &#8211; Sails.js ([https://goo.gl/sU9fb3](Ver presentación))
+  * Matías Barriento &#8211; Flask ([https://goo.gl/8thMws](Ver ejemplos y demos))
 
-### TTT | FLASK VS SAILS.JS &#8211; <a class="p_red" href="https://goo.gl/KW1yL4" target="_blank" rel="noopener">Ver galería</a>
+### TTT | (TYPESCRIPT && ES6) & ANGULAR4 &#8211; [https://goo.gl/photos/kHaezsd4D5UYvqDW6](Ver galería)
 
-  * Damián Pumar &#8211; Sails.js (<a class="p_red" href="https://goo.gl/sU9fb3" target="_blank" rel="noopener">Ver presentación</a>)
-  * Matías Barriento &#8211; Flask (<a class="p_red" href="https://goo.gl/8thMws" target="_blank" rel="noopener">Ver ejemplos y demos</a>)
+  * Alejandro Brozzo &#8211; Typescript && ES6 ([https://goo.gl/cfEx4F](Ver presentación))
+  * Victoria Perdomo &#8211; Angular4 ([https://goo.gl/WQQlUh](Ver ejemplos y demos))
 
-&nbsp;
-
-&nbsp;
-
-### TTT | (TYPESCRIPT && ES6) & ANGULAR4 &#8211; <a class="p_red" href="https://goo.gl/photos/kHaezsd4D5UYvqDW6" target="_blank" rel="noopener">Ver galería</a>
-
-  * Alejandro Brozzo &#8211; Typescript && ES6 (<a class="p_red" href="https://goo.gl/cfEx4F" target="_blank" rel="noopener">Ver presentación</a>)
-  * Victoria Perdomo &#8211; Angular4 (<a class="p_red" href="https://goo.gl/WQQlUh" target="_blank" rel="noopener">Ver ejemplos y demos</a>)
-
-&nbsp;
-
-&nbsp;
