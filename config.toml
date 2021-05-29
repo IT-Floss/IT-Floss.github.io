@@ -1,4 +1,4 @@
-#baseURL = "https://itfloss.beer/"
+baseURL = "https://itfloss.beer/"
 languageCode = "en-us"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
