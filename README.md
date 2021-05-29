@@ -46,7 +46,7 @@ Cada vez que realicen un cambio a hugo se va a encargar de redenderizar el sitio
 
 El sitio funciona con Github Pages, hugo y github actions. Lo que significa que, con una cuenta de github, tienen todo lo que necesitan para testear. 
 
-Deberia quedar todo automaticamente seteado al forkear el repositorio, quedando publicado en usuario.github.io/IT-Floss.github.io/ . Aun no pudimos resolver un pequeño detalle con el baseURL en este caso, por lo que notaran que los enlaces quedan armados con itfloss.beer
+Deberia quedar todo automaticamente seteado al forkear el repositorio, quedando publicado en usuario.github.io/IT-Floss.github.io/ .
 
 ## Hacer un Pull Request
 
