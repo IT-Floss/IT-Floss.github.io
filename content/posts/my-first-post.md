@@ -2,6 +2,7 @@
 title: "Heroes so far"
 date: 2021-05-15T18:19:59-03:00
 draft: false
+toc: true
 ---
 
 # El gran Lucho
@@ -12,3 +13,6 @@ quien nos ha otorgado la posibilida de ser orgullosamente llamados [itfloss.beer
 
 # El sabio Seba C
 juglar trovador post-moderno, rescatando nuestra historia de las fauces del backup.
+
+# El enabler Santi
+Nuestro Hermes moderno, gestionando el discord para que podamos comunicarnos
