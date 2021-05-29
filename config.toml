@@ -2,4 +2,30 @@ baseURL = "https://itfloss.beer/"
 languageCode = "en-us"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
-googleanalytics = "G-KNPLG4BVPJ"
+googleAnalytics = "G-KNPLG4BVPJ"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = -120
+
+[[menu.main]]
+    identifier = "eventos"
+    name = "Eventos"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/eventos/"
+    weight = -90
