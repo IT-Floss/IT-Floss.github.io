@@ -23,12 +23,12 @@ Si tenés ganas de compartir tus experiencias, conocer gente del palo o asistir 
   **Reglas**
 
 
-* Ser buena onda
-* Permitir otros puntos de vista
-* Podés utilizar IT Floss como base para un proyecto, y pedir/ofrecer apoyo. Que la comunidad lo acepte no quiere decir que esté obligada a participar.
-* Evitar temas Político/Religiosos. El grupo no posee banderas de este tipo.
-* Si vas a usar el anonimato, que sea con buena intención
-* Participar!
+  * Ser buena onda
+  * Permitir otros puntos de vista
+  * Podés utilizar IT Floss como base para un proyecto, y pedir/ofrecer apoyo. Que la comunidad lo acepte no quiere decir que esté obligada a participar.
+  * Evitar temas Político/Religiosos. El grupo no posee banderas de este tipo.
+  * Si vas a usar el anonimato, que sea con buena intención
+  * Participar!
 
 
   **Código de conducta**
