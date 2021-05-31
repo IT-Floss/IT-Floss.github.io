@@ -25,4 +25,4 @@ A diario podés encontrarnos en las siguientes platafomas:
 
 * * *
 
-  * [sysarmy](https://www.sysarmy.com.ar/) Somos chapter oficial Rosarino de la comunidad que da soporte a lso que dan soporte.
+  * [SYSARMY](https://www.sysarmy.com.ar/) Somos chapter oficial Rosarino de la comunidad que da soporte a los que dan soporte.
