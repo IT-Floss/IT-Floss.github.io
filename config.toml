@@ -7,7 +7,7 @@ googleAnalytics = "G-KNPLG4BVPJ"
 summaryLength = 40
 
 [params]
-site_logo = "/images/if-blanco.png"
+site_logo = "images/if-blanco.png"
 mainSections = ["eventos", "posts"] 
 
 [sitemap]
