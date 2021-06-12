@@ -19,82 +19,24 @@ categories:
   - TTT
 
 ---
-&nbsp;
+ 
 
-<div class="charla cf">
-  <div class="oradores">
-    <div class="orador" data-tooltip="Fernando Villares">
-      <div class="imagen">
-        <img src="https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg" alt="Fernando Villares" />
-      </div>
-    </div>
-  </div>
-  
-  <div class="b_info">
-    <h2 class="charla_titulo">
-      <b>DeepWeb</b>
-    </h2>
-    
-    <div class="charla_info">
-      </p> 
-      
-      <p>
-        Vamos a recorrer la DeepWeb de la mano de nuestro experto en seguridad Fernando Villares. Derrumbaremos los mitos populares y veremos que es lo que se esconde en la parte menos conocida de Internet.
-      </p>
-      
-      <p>
-        <div class="charla_descarga">
-          <a class="charla_boton_descarga" href="https://goo.gl/4mf6T4" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-        </div></div></div></div>
-        
-        <div style="height:15px;">
-        </div>
-        
-        <p>
-          &nbsp;
-        </p>
-        
-        <div class="charla cf">
-          <div class="oradores">
-            <div class="orador" data-tooltip="Federico Lazcano">
-              <div class="imagen">
-                <img src="https://itfloss.rocks/wp-content/uploads/2017/08/lazcano.png" alt="Federico Lazcano" />
-              </div>
-            </div>
-          </div>
-          
-          <div class="b_info">
-            <h2 class="charla_titulo">
-              <b>Tecnologías Electorales</b>
-            </h2>
-            
-            <div class="charla_info">
-              </p> 
-              
-              <p>
-                Después, Federico Lazcano disertará sobre tecnologías electorales. ¿Qué significa voto electrónico? ¿Realmente contribuye a la transparencia del proceso electoral?
-              </p>
-              
-              <p>
-                &nbsp;
-              </p>
-              
-              <p>
-                &nbsp;
-              </p>
-              
-              <p>
-                <div class="charla_descarga">
-                  <a class="charla_boton_descarga" href="https://goo.gl/VHnoyz" target="_blank"><i class="ion-android-download"></i> Descargar presentación</a>
-                </div></div></div></div>
-                
-                <div style="height:15px;">
-                </div>
-                
-                <p>
-                  El evento se llevará a cabo el día <strong>martes 17 de octubre a las 19:30 en Coworking Rosario, Carballo 194 4B</strong>, en la ciudad de Rosario. La entrada es libre y gratuita, ¡los esperamos!
-                </p>
-                
-                <p>
-                  &nbsp;
-                </p>
+![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+
+**DeepWeb**
+-----------
+
+Vamos a recorrer la DeepWeb de la mano de nuestro experto en seguridad Fernando Villares. Derrumbaremos los mitos populares y veremos que es lo que se esconde en la parte menos conocida de Internet.
+
+[Descargar presentación](https://goo.gl/4mf6T4)
+
+![Federico Lazcano](https://itfloss.rocks/wp-content/uploads/2017/08/lazcano.png)
+
+**Tecnologías Electorales**
+---------------------------
+
+Después, Federico Lazcano disertará sobre tecnologías electorales. ¿Qué significa voto electrónico? ¿Realmente contribuye a la transparencia del proceso electoral?
+
+[Descargar presentación](https://goo.gl/VHnoyz)
+
+El evento se llevará a cabo el día **martes 17 de octubre a las 19:30 en Coworking Rosario, Carballo 194 4B**, en la ciudad de Rosario. La entrada es libre y gratuita, ¡los esperamos!

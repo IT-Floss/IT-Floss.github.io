@@ -1,5 +1,44 @@
 baseURL = "https://itfloss.beer/"
-languageCode = "en-us"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "IT Floss comunidad de sistemas Site"
 theme = "ananke"
-googleanalytics = "G-KNPLG4BVPJ"
+googleAnalytics = "G-KNPLG4BVPJ"
+summaryLength = 40
+
+[params]
+site_logo = "/images/if-blanco.png"
+mainSections = ["eventos", "posts"] 
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = -120
+
+[[menu.main]]
+    identifier = "eventos"
+    name = "Eventos"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/eventos/"
+    weight = -90
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/posts/"
+    weight = -80
