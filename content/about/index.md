@@ -13,16 +13,18 @@ Somos una comunidad de sistemas con base en Rosario y alrededores, generamos pun
 
 * * *
 
-Hacemos una [https://www.meetup.com/es-ES/FLOSS_Ros/events/](reunión mensual) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información. 
+Hacemos una [reunión mensual](https://www.meetup.com/es-ES/FLOSS_Ros/events/) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información.
 A diario podés encontrarnos en las siguientes platafomas:
 * [DISCORD](https://discord.gg/HNFnB4VKZ9)
+* IM: [Telegram](https://t.me/joinchat/TizcIFBwshFlKj-Q) - [WhatsApp](#) (Solicita te agreguen en otro de los canales)
 * [TWITTER](https://twitter.com/IT_Floss)
+* [Facebook Page](https://www.facebook.com/itfloss) - [Facebook Group](https://www.facebook.com/groups/itfloss)
 * [MEETUP](http://www.meetup.com/es-ES/FLOSS_Ros/) donde organizamos los eventos
 * [GITHUB](https://github.com/IT-Floss) aqui construimos.
-* [Whatsapp & Telegram]
 
 # COMUNIDADES AMIGAS
 
 * * *
 
   * [SYSARMY](https://www.sysarmy.com.ar/) Somos chapter oficial Rosarino de la comunidad que da soporte a los que dan soporte.
+
