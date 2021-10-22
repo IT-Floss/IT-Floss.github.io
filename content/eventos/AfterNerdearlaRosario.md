@@ -10,13 +10,15 @@ lugar: Av. Pellegrini 1635
 
 ---
 Nos juntamos a celebrar el exito de **#Nerdear.la de #Sysarmy @ Rosario!**
+Y no estaremos solos! Desde Pergamino [ScrollArmy](https://scrollarmy.com.ar/) se suma al festejo!
 
 Sumense al grupo de Telegram del evento para estar en contacto y ayudarnos a estimar asistencia!
 [After Nerdearla @Rosario](https://t.me/joinchat/S1Q3O2IpyY9lZWYx)
 
-No dejen de sumarse a la [Fan Page](https://www.facebook.com/itfloss) y grupo de Facebook
-
 Organizan:
-[IT Floss]( http://itfloss.beer) // [Sysarmy](https://sysarmy.com.ar/)
+[Sysarmy](https://sysarmy.com.ar/)
+[IT Floss]( http://itfloss.beer) 
+[ScrollArmy](https://scrollarmy.com.ar/)
+
 
 ![IT Floss Admin Birras](/images/it-floss-birras.jpg) 
