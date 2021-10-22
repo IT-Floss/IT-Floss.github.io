@@ -11,7 +11,7 @@ lugar: Av. Pellegrini 1635
 ---
 Nos juntamos a celebrar el exito de **#Nerdear.la de #Sysarmy @ Rosario!**
 
-Sumense al grupo de Telegram del evento pra estar en contacto y ayudarnos a estimar asistencia!
+Sumense al grupo de Telegram del evento para estar en contacto y ayudarnos a estimar asistencia!
 [After Nerdearla @Rosario](https://t.me/joinchat/S1Q3O2IpyY9lZWYx)
 
 No dejen de sumarse a la [Fan Page](https://www.facebook.com/itfloss) y grupo de Facebook
