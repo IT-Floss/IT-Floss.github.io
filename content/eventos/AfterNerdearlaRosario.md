@@ -6,7 +6,7 @@ author: Linus Torvalds
 type: evento
 adminBirras: true
 fecha: Sabado 23 de Octubre, 19:30hs
-lugar: [Olivia Restó Urbano, Av. Pellegrini 1635](https://goo.gl/maps/9Hwd1WS5Tfgv6H3s5)
+lugar: Olivia Restó Urbano, Av. Pellegrini 1635 - https://goo.gl/maps/9Hwd1WS5Tfgv6H3s5
 
 ---
 Nos juntamos a celebrar el exito de **#Nerdear.la de #Sysarmy @ Rosario!**
