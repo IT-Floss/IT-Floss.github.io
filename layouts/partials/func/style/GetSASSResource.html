@@ -1,0 +1,19 @@
+{{/*
+  style/GetSASSResource
+  Get a style asset stored at `/assets/ananke/sass`
+
+  @author @regisphilibert
+
+  @context String (.)
+
+  @access private
+
+  @returns Resource
+
+*/}}
+{{ $resource := dict }}
+{{ with resources.Get (print "/ananke/sass/" .) }}
+  {{ $resource = . }}
+{{ end }}
+
+{{ return $resource }}

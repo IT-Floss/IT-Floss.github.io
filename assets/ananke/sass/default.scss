@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+:root {
+    --cursor-visibility: hidden;
+}
+
+
+#terminal-container{
+
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+
+    font-family: "Inconsolata", monospace;
+    font-size: 4vmin;
+    line-height: 4.1vmin;
+    font-weight: normal;
+
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+    min-width: 82vmin;
+    min-height: 82vmin;
+}
+#content{
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    box-shadow: inset 0 0 1px white;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: 0 0 0 1px white;
+}
+
+.cursor {
+    visibility: var(--cursor-visibility);
+        content: "|";
+        overflow: hidden;
+        color: white;
+        animation: blink 500ms linear infinite alternate;
+}
+
+#ps1_01, #cd, #ps1_02, #cat, #std_out_01, #ps1_03, #std_out_02, #ps1_04 {
+    &:after {
+        @extend .cursor;
+    }
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    #content{
+        min-width: 60vmin;
+    }
+}
