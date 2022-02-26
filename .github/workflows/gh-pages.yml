@@ -18,7 +18,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
+          extended: true
 
       - name: Build
         if: github.repository == 'IT-Floss/IT-Floss.github.io'
