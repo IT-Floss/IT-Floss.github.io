@@ -21,7 +21,6 @@
     align-items: center;
     font-weight: 300;
 
-    min-height: 41vmax;
 }
 
 #terminal-nav{
@@ -35,7 +34,7 @@ html {
 
 
 #motd{
-    min-height: 17vmax;
+    min-height: 22vmax;
     display: block;
     white-space:pre;
     font-family: "Inconsolata", monospace;
