@@ -53,9 +53,6 @@ html {
 
 }
 .nav-menu{ 
-    font-size: 2.0vmin;
-    line-height: 2.1vmin;
-    font-weight: 300;
 
 	color: white;
 }
@@ -108,25 +105,3 @@ html {
     }
 }
 
-@media screen and (max-width:959px){
-
-    .navigation-bar .social{
-	    visibility: hidden;
-    }
-    .navigation-bar .logo-title{
-	    visibility: hidden;
-    }
-
-    #motd .border{
-    	
-        font-size: 1.2vmin;
-        line-height: 1.3vmin;
-    }
-}
-@media screen and (max-width:640px){
-   #motd .border {
-    	
-        font-size: 1.0vmin;
-        line-height: 1.1vmin;
-    }
-}
