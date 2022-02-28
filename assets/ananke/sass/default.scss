@@ -9,7 +9,6 @@
 #terminal-container{
     width: 100%;
     height: 100%;
-    overflow: scroll;
 
     font-family: "Inconsolata", monospace;
     font-size: 2vmin;
@@ -76,12 +75,13 @@ html {
 }
 ::-webkit-scrollbar-track {
     border-radius: 10px;
-    box-shadow: inset 0 0 1px white;
+    box-shadow: inset 0 0 1px black;
 }
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    box-shadow: 0 0 0 1px white;
+    box-shadow: 0 0 0 1px black;
 }
+
 
 .navigation-bar{
     width: 100%;
@@ -108,13 +108,6 @@ html {
         opacity: 1;
     }
 }
-
-@media only screen and (min-width: 768px) {
-
-    #content{
-        min-width: 30vmin;
-    }
-   }
 
 @media screen and (max-width:959px){
 

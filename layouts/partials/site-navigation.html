@@ -1,8 +1,8 @@
 <nav class="navigation-bar db dt-l w-100 border-box pa3 ph5-l">
 <div class="logo db dtc-l w-75-l tc tr-l">
-  <a class="db dtc-l v-mid link dim w-100 w-20-l tc tl-l mb2 mb0-l" href="{{ .Site.Home.RelPermalink }}" title="Home">
-				{{ with .Site.Params.site_logo }}
-				<img src="{{ . }}" class="dib w3 h3" alt="{{ $.Site.Title }}" />
+	<a class="db dtc-l v-mid link dim w-100 w-20-l tc tl-l mb2 mb0-l" href="{{ .Site.Home.RelPermalink }}" title="Home">
+				{{ if .Site.Params.site_logo }}
+				<img src="{{ .Site.BaseURL }}{{ .Site.Params.site_logo }}" class="dib w3 h3" alt="{{ $.Site.Title }}" />
 				{{ else }}
 				{{ .Site.Title }}
 				{{ end }}
