@@ -105,3 +105,9 @@ html {
     }
 }
 
+@media screen and (max-width:640px){
+   #motd .border {
+
+        font-size: 1.3vmin;
+    }
+}
