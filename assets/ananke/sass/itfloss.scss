@@ -1,4 +1,4 @@
-$charcolor: #bbbbbb;
+$charcolor: white;
 
 
 #terminal-container {
@@ -14,6 +14,23 @@ $charcolor: #bbbbbb;
 #dir {
 	color: #f39224;
 }
+
+#motd {
+	color: #f39224;
+    background: #1b1d1e;
+    box-shadow: none;
+    box-sizing: content-box;
+
+}
+#motd span{
+	color: white;
+
+}
+
+#motd .border{
+	color: #f39224;
+}
+
 
 .Typewriter__cursor {
 	color: $charcolor;

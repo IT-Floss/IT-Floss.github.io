@@ -1,7 +1,7 @@
 baseURL = "https://itfloss.beer/"
 languageCode = "es"
 defaultContentLanguage = "es"
-title = "IT Floss comunidad de sistemas Site"
+title = "IT Floss"
 theme = "ananke"
 googleAnalytics = "G-KNPLG4BVPJ"
 summaryLength = 40
@@ -46,10 +46,10 @@ summaryLength = 40
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "Nerd"
+  userName = "nerd"
   pcName = "Rosario"
   workDir = "ITFloss"
-  profile = "about.txt"
+  profile = "¿Qué Hacemos?.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -73,14 +73,11 @@ summaryLength = 40
   # activityDelay = 5 : deprecated
 
   description = """  
-Somos una comunidad de sistemas con base 
-en Rosario y alrededores,
-generamos puntos de encuentro para la gente del mundo 
-de la tecnología de la información. 
-Si tenés ganas de compartir tus experiencias, 
-conocer gente del palo o asistir a eventos informativos, 
-te invitamos a sumarte.
-  """
+  Hacemos una reunión mensual el segundo jueves de cada mes. 
+Tambien asistimos y organizamos eventos relacionados 
+a la tecnología de la información. 
+A diario podés encontrarnos en las siguientes platafomas:
+"""
 #Hacemos una reunión mensual el segundo 
 #jueves de cada mes. 
 #Tambien asistimos y organizamos eventos 
@@ -93,7 +90,7 @@ te invitamos a sumarte.
 
   [Params.Tree]
   use = true
-  folderName = "como_participar"
+  folderName = "donde_me_sumo"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Admin Birras, sumate a la próxima!", "/eventos/adminbirras/2022-02-26/"],
@@ -101,6 +98,7 @@ te invitamos a sumarte.
     ["Discord", "https://discord.gg/HNFnB4VKZ9"],
     ["Facebook", "https://www.facebook.com/itfloss"],
     ["Github", "https://github.com/IT-Floss"],
+    ["Telegram", "https://t.me/joinchat/TizcIKo-ra374ONO"],
   ]
 
 [module]
