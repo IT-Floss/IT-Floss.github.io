@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@1,700&display=swap');
+
+:root {
+    --cursor-visibility: hidden;
+}
+
+
+#terminal-container{
+    width: 100%;
+    height: 100%;
+
+    font-family: "Inconsolata", monospace;
+    font-size: 2vmin;
+    line-height: 2.1vmin;
+    font-weight: normal;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+
+}
+
+#terminal-nav{
+
+    min-height: 20vmax;
+}
+
+html {
+    background-color: black;
+}
+
+
+#motd{
+    min-height: 22vmax;
+    display: block;
+    white-space:pre;
+    font-family: "Inconsolata", monospace;
+    font-size: 2.0vmin;
+    line-height: 2.1vmin;
+    font-weight: 300;
+}
+#motd .border{
+	
+    font-size: 1.5vmin;
+    line-height: 1.6vmin;
+}
+#motd strong{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+
+}
+.nav-menu{ 
+
+	color: white;
+}
+
+.logo-title{ 
+	color: white;
+}
+
+.noshadow {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    box-shadow: inset 0 0 1px black;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: 0 0 0 1px black;
+}
+
+
+.navigation-bar{
+    width: 100%;
+}
+.cursor {
+    visibility: var(--cursor-visibility);
+        content: "|";
+        overflow: hidden;
+        color: white;
+        animation: blink 500ms linear infinite alternate;
+}
+
+#ps1_01, #cd, #ps1_02, #cat, #std_out_01, #ps1_03, #std_out_02, #ps1_04 {
+    &:after {
+        @extend .cursor;
+    }
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width:640px){
+   #motd .border {
+
+        font-size: 1.3vmin;
+    }
+}

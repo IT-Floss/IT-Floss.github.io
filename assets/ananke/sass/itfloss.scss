@@ -1,0 +1,41 @@
+$charcolor: white;
+
+
+#terminal-container {
+
+    color: $charcolor;
+    background: #1b1d1e;
+}
+#user {
+	    color: #23e298;
+
+}
+
+#dir {
+	color: #f39224;
+}
+
+#motd {
+	color: #f39224;
+    background: #1b1d1e;
+    box-shadow: none;
+    box-sizing: content-box;
+
+}
+#motd span{
+	color: white;
+
+}
+
+#motd .border{
+	color: #f39224;
+}
+
+
+.Typewriter__cursor {
+	color: $charcolor;
+}
+
+a {
+    color: $charcolor;
+}
