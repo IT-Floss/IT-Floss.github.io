@@ -14,7 +14,7 @@ lugar: Olivia Restó Urbano, Av. Pellegrini 1635 - https://goo.gl/maps/9Hwd1WS5T
 **[AdminFest](https://www.adminfest.com/)** es un evento que nació en 2009, para celebrar el International SysAdmin Day.
 Desde ese momento nos juntamos el último viernes de cada julio a brindar por los tickets cerrados, los incidentes resueltos y la satisfacción de un trabajo bien realizado. 
 
-[Sysarmy](https://sysarmy.com.ar/) cumple 10 años celebrando el adminfest de forma ininterrumpida. Por eso el Viernes 27 se desactiva Selinux, se pasa la guarda y se festeja!
+[Sysarmy](https://sysarmy.com.ar/) cumple 10 años celebrando el adminfest de forma ininterrumpida. Por eso el Viernes 29 se desactiva Selinux, se pasa la guarda y se festeja!
 {{< youtube gqu5rn8irLI >}}
 
 Te esperamos en Olivia a partir de las 19:30hs.
