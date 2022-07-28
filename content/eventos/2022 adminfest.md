@@ -20,6 +20,8 @@ Desde ese momento nos juntamos el último viernes de cada julio a brindar por lo
 Te esperamos en Olivia a partir de las 19:30hs.
 Animate twiteando una foto del evento con el hashtag **#adminfest**.
 
+[Confirma asistencia para participar de los sorteos y actividades.](https://www.eventbrite.com/e/adminfest-10-anos-sysarmy-tickets-392433488127)
+
 No olviden sumarse al grupo de Telegram para estar en contacto!
 [Adminfest @Rosario](https://t.me/+R8O-ttM9lgdhZWI5)
 
