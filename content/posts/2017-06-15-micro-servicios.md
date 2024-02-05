@@ -27,9 +27,9 @@ tags:
   - Microservicios
 
 ---
-Implementación de Aplicaciones utilizando Microservicios 25 de Octubre de 2016 desde las 18:30 horas. CIDEL Maipú 835, Rosario La intención es dar a conocer a la comunidad las ventajas y desventajas de la utilización de microservicios, y contar las posibilidades de cada una de las 3 principales herramientas disponibles. ![](http://itfloss.rocks/wp-content/uploads/2017/06/microservicios.jpeg)    
+Implementación de Aplicaciones utilizando Microservicios 25 de Octubre de 2016 desde las 18:30 horas. CIDEL Maipú 835, Rosario La intención es dar a conocer a la comunidad las ventajas y desventajas de la utilización de microservicios, y contar las posibilidades de cada una de las 3 principales herramientas disponibles. ![](http://itfloss.beer/wp-content/uploads/2017/06/microservicios.jpeg)    
 
-![Sebastián Dominguez](https://itfloss.rocks/wp-content/themes/hummingBird/img/seba.jpg)
+![Sebastián Dominguez](https://itfloss.beer/wp-content/themes/hummingBird/img/seba.jpg)
 
 Introducción a Microservicios
 -----------------------------
@@ -41,7 +41,7 @@ Charla introductoria a microservicios. Usos, ventajas y desventajas.
 
  
 
-![Julián Butti](https://itfloss.rocks/wp-content/themes/hummingBird/img/juli.jpg)
+![Julián Butti](https://itfloss.beer/wp-content/themes/hummingBird/img/juli.jpg)
 
 Google Firebase
 ---------------
@@ -53,7 +53,7 @@ Características del servicio de Google para brindar microservicios.
 
  
 
-![Sebastián Bressan](https://itfloss.rocks/wp-content/themes/hummingBird/img/seba1.jpg)
+![Sebastián Bressan](https://itfloss.beer/wp-content/themes/hummingBird/img/seba1.jpg)
 
 Amazon Web Services
 -------------------

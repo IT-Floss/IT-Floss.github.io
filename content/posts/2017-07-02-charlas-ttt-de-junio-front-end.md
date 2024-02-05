@@ -27,7 +27,7 @@ tags:
 ---
 Junto a Victoria y Alejandro iremos comprendiendo al mundo FrontEnd JavaScript con dos charlas introductorias, muy a tono con las últimas TTT donde conocimos Backends.  
 
-![Alejandro Brozzo](https://itfloss.rocks/wp-content/themes/hummingBird/img/alejandro_brozzo.png)
+![Alejandro Brozzo](https://itfloss.beer/wp-content/themes/hummingBird/img/alejandro_brozzo.png)
 
 **Typescript && ES6**
 ---------------------
@@ -38,7 +38,7 @@ Alejandro Brozzo romperá el hielo con Evolucionando.js: Una Intro a ES6 && Ty
 
 [Descargar presentación](https://goo.gl/cfEx4F)
 
-![Victoria Perdomo](https://itfloss.rocks/wp-content/themes/hummingBird/img/victoria_perdomo.jpeg)
+![Victoria Perdomo](https://itfloss.beer/wp-content/themes/hummingBird/img/victoria_perdomo.jpeg)
 
 **Angular4**
 ------------
@@ -51,6 +51,6 @@ Luego, con Victoria Perdomo estaremos descubriendo Angular4​, una intro a l
 
 Además, vas a conocer a nuestro anfitrión [Surhive](http://www.surhive.com/), empresa de la región donde más de uno se va querer quedar indefinidamente.
 
-En nuestro sitio web [https://itfloss.rocks](https://itfloss.rocks) encuentran charlas anteriores y métodos de contacto
+En nuestro sitio web [https://itfloss.beer](https://itfloss.beer) encuentran charlas anteriores y métodos de contacto
 
 [Meetup: https://www.meetup.com/es-ES/FLOSS\_Ros/events/239716288/](https://www.meetup.com/es-ES/FLOSS_Ros/events/239716288/)

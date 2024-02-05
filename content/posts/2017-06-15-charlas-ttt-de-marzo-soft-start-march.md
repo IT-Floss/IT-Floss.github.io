@@ -20,7 +20,7 @@ categories:
 ---
 Nuestra primera iteración en esto que hemos denominado Third Tuesday Talks. En esta ocasión el evento contará con dos temáticas:  
 
-![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+![Fernando Villares](https://itfloss.beer/wp-content/themes/hummingBird/img/fer.jpg)
 
 **Seguridad sobre comunicaciones unificadas (VoIP)**
 ----------------------------------------------------
@@ -32,11 +32,11 @@ _(\*) la profundidad dependerá del tiempo y la infraestructura disponible_
 
 [Descargar presentación](https://goo.gl/hRnviD)
 
-![Ismael Ull](https://itfloss.rocks/wp-content/themes/hummingBird/img/ismael.jpg)
+![Ismael Ull](https://itfloss.beer/wp-content/themes/hummingBird/img/ismael.jpg)
 
-![Lucas Olmedo](https://itfloss.rocks/wp-content/themes/hummingBird/img/lucas_olmedo.jpg)
+![Lucas Olmedo](https://itfloss.beer/wp-content/themes/hummingBird/img/lucas_olmedo.jpg)
 
-![Jorge Benzaquen](https://itfloss.rocks/wp-content/themes/hummingBird/img/jorge_benzaquen.jpg)
+![Jorge Benzaquen](https://itfloss.beer/wp-content/themes/hummingBird/img/jorge_benzaquen.jpg)
 
 **IT Manager toolbox**
 ----------------------

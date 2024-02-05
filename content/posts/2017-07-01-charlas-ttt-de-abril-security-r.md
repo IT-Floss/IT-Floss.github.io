@@ -27,7 +27,7 @@ tags:
 ---
 En esta ocasión el evento contará con dos temáticas:  
 
-![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+![Fernando Villares](https://itfloss.beer/wp-content/themes/hummingBird/img/fer.jpg)
 
 **Nociones de Seguridad Informática**
 -------------------------------------
@@ -36,7 +36,7 @@ El Ing. Fernando Villares nos muestra las amenazas que existen en las tecnologí
 
 [Descargar presentación](https://goo.gl/PqkH6I)
 
-![Horacio Castellini](https://itfloss.rocks/wp-content/themes/hummingBird/img/horacio_castellini.jpg)
+![Horacio Castellini](https://itfloss.beer/wp-content/themes/hummingBird/img/horacio_castellini.jpg)
 
 **Introducción a R**
 --------------------
