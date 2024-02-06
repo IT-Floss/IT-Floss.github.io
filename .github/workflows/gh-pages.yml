@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Set a branch to deploy
 
+env:
+  HUGO_services_googleAnalytics_ID: ${{ vars.HUGO_services_googleAnalytics_ID }}
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04
