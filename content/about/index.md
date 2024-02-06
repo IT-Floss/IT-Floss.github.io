@@ -16,7 +16,8 @@ Somos una comunidad de sistemas con base en Rosario y alrededores, generamos pun
 Hacemos una [reunión mensual](/eventos/) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información.
 A diario podés encontrarnos en las siguientes platafomas:
 * [DISCORD](https://discord.com/invite/sysarmy-128531369788833793)
-* IM: [Telegram](https://t.me/+R8O-ttM9lgdhZWI5) - [WhatsApp](#) (Solicita te agreguen en otro de los canales)
+* IM: [Telegram](https://t.me/+R8O-ttM9lgdhZWI5)
+* IM: [WhatsApp](https://chat.whatsapp.com/3TnoU4qlV8NFpQXpOF9Eqm)
 * [TWITTER](https://twitter.com/IT_Floss)
 * [Facebook Page](https://www.facebook.com/itfloss) - [Facebook Group](https://www.facebook.com/groups/itfloss)
 * [GITHUB](https://github.com/IT-Floss) aqui construimos.
