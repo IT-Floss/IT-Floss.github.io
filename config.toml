@@ -143,4 +143,4 @@ a la tecnología de la información.
 
 #[services]
 #  [services.googleAnalytics]
-#    #ID = {{ getenv "HUGO_services_googleAnalytics_ID" }}
+#    ID = {{ getenv "HUGO_services_googleAnalytics_ID" }}
