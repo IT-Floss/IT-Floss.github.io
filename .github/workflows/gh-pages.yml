@@ -20,6 +20,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Display the path
+        shell: bash
+        run: echo $HUGO_services_googleAnalytics_ID
+
       - name: Build
         if: github.repository == 'IT-Floss/IT-Floss.github.io'
         run: hugo --minify
