@@ -13,7 +13,7 @@ Una nueva iteración de las ya clásicas **#AdminBirras de #Sysarmy @ Rosario!**
 
 El punto de encuentro para los apasionados por la tecnología. Las Birras mas nerds de rosario
 
-No dejen de sumarse a la [Fan Page](https://www.facebook.com/itfloss) y grupo de Facebook
+Primera vez? encontranos en "[donde me sumo](https://itfloss.beer)"
 
 Organizan:
 [IT Floss]( http://itfloss.beer) // [Sysarmy](https://sysarmy.com.ar/)
