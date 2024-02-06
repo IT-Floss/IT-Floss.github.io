@@ -16,7 +16,7 @@ create_adminbirras(){
   [[ -z "${NOMBRE_ARCHIVO}" ]] && NOMBRE_ARCHIVO=$(date +%B)
 
   # Crear adminbirras segun el tipo de archivo definido en archetype/adminbirras.md
-  EVENT_FILE_PATH=$(hugo new --kind adminbirras eventos/adminbirras/${NOMBRE_ARCHIVO}.md | awk '{print $1}')
+  EVENT_FILE_PATH=$(hugo new --kind adminbirras eventos/adminbirras/${NOMBRE_ARCHIVO}.md | awk '{print $2}' | tr -d '"')
 
   if [[ -f "${EVENT_FILE_PATH}" ]]; then
     # Asignar paramentros  
