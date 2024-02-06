@@ -13,13 +13,13 @@ Somos una comunidad de sistemas con base en Rosario y alrededores, generamos pun
 
 * * *
 
-Hacemos una [reunión mensual](https://www.meetup.com/es-ES/FLOSS_Ros/events/) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información.
+Hacemos una [reunión mensual](/eventos/) el segundo jueves de cada mes. Tambien asistimos y organizamos eventos relacionados a la tecnología de la información.
 A diario podés encontrarnos en las siguientes platafomas:
-* [DISCORD](https://discord.gg/HNFnB4VKZ9)
-* IM: [Telegram](https://t.me/joinchat/TizcIKo-ra374ONO) - [WhatsApp](#) (Solicita te agreguen en otro de los canales)
+* [DISCORD](https://discord.com/invite/sysarmy-128531369788833793)
+* IM: [Telegram](https://t.me/+R8O-ttM9lgdhZWI5)
+* IM: [WhatsApp](https://chat.whatsapp.com/3TnoU4qlV8NFpQXpOF9Eqm)
 * [TWITTER](https://twitter.com/IT_Floss)
 * [Facebook Page](https://www.facebook.com/itfloss) - [Facebook Group](https://www.facebook.com/groups/itfloss)
-* [MEETUP](http://www.meetup.com/es-ES/FLOSS_Ros/) donde organizamos los eventos
 * [GITHUB](https://github.com/IT-Floss) aqui construimos.
 
 # COMUNIDADES AMIGAS
@@ -27,4 +27,4 @@ A diario podés encontrarnos en las siguientes platafomas:
 * * *
 
   * [SYSARMY](https://www.sysarmy.com.ar/) Somos chapter oficial Rosarino de la comunidad que da soporte a los que dan soporte.
-
+  * [ScrollArmy](https://scrollarmy.com.ar/) nuestro alter-ego en el multiverso de Pergamino 

@@ -32,7 +32,7 @@ Se dice que “quien bien comienza llega al menos a mitad de camino”. Siendo a
 
 [Descargar presentación](https://drive.google.com/file/d/1qlwuqGA23zwxOsqTTJPZVr64JwefAlQC/view?usp=sharing)
 
-![Emmanuel Messulam](https://itfloss.rocks/wp-content/uploads/2018/03/Emmanuel.png)
+![Emmanuel Messulam](https://itfloss.beer/wp-content/uploads/2018/03/Emmanuel.png)
 
 **Intro práctica a Android creando un app básica en Kotlin**
 ------------------------------------------------------------

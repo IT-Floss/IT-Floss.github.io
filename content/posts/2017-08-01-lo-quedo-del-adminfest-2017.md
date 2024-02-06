@@ -21,4 +21,4 @@ Algunos de los datos interesantes de la encuesta:
 Pero lo que todos esperaban era la correlación entre la pasión por las medialunas y el grado de pelada.  
 En donde podemos ver claramente que no hay una correlación significativa entre las dos variables :S
 
- [1]: https://itfloss.rocks/eventos/sysadmin-day/adminfest-2017/
+ [1]: https://itfloss.beer/eventos/sysadmin-day/adminfest-2017/

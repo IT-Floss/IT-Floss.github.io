@@ -22,7 +22,7 @@ tags:
 ---
  
 
-![Horacio Castellini](https://itfloss.rocks/wp-content/uploads/2017/08/horacio_castellini.jpg)
+![Horacio Castellini](https://itfloss.beer/wp-content/uploads/2017/08/horacio_castellini.jpg)
 
 **Protocolo IPV6**
 ------------------
@@ -31,9 +31,9 @@ En esta nueva edición de las Third Tuesday Talks, Horacio Castellini nos hablar
 
 [Descargar presentación](https://goo.gl/Mw8KdP)
 
-![Cristian Ozan](https://itfloss.rocks/wp-content/uploads/2017/07/ozan.png)
+![Cristian Ozan](https://itfloss.beer/wp-content/uploads/2017/07/ozan.png)
 
-![Federico Lazcano](https://itfloss.rocks/wp-content/uploads/2017/08/lazcano.png)
+![Federico Lazcano](https://itfloss.beer/wp-content/uploads/2017/08/lazcano.png)
 
 **Implementar ITIL sin morir en el intento**
 --------------------------------------------

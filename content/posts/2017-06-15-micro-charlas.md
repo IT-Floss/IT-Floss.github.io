@@ -22,7 +22,7 @@ categories:
 
 --- Exponemos brevemente algunos temas y conversamos al respecto las experiencias de cada uno. Nos juntamos en valdovina, en un ambiente relajado a disfrutar de bebida y comida mientras atendemos a las micro charlas.
 
-![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+![Fernando Villares](https://itfloss.beer/wp-content/themes/hummingBird/img/fer.jpg)
 
 Ecología y las tecnologías de la información
 --------------------------------------------
@@ -34,7 +34,7 @@ Cómo mejorar la eficiencia energética en IT. Casos de éxitos y metodologías 
 
    
 
-![Sebastián Dominguez](https://itfloss.rocks/wp-content/themes/hummingBird/img/seba.jpg)
+![Sebastián Dominguez](https://itfloss.beer/wp-content/themes/hummingBird/img/seba.jpg)
 
 Utilizando certificados SSL - Lets Encrypt / StartSSL
 -----------------------------------------------------
@@ -46,7 +46,7 @@ Cómo implementar certificados gratuitos SSL para nuestros servicios webs. Venta
 
    
 
-![Ezequiel Cardinali](https://itfloss.rocks/wp-content/themes/hummingBird/img/eze.jpg)
+![Ezequiel Cardinali](https://itfloss.beer/wp-content/themes/hummingBird/img/eze.jpg)
 
 Introducción a Openstack
 ------------------------

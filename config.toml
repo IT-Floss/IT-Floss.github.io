@@ -92,12 +92,13 @@ a la tecnología de la información.
   folderName = "donde_me_sumo"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Admin Birras, sumate a la próxima!", "/eventos/adminbirras/2022-02-26/"],
+    ["Admin Birras, sumate a la próxima!", "/eventos/"],
     ["Twitter", "https://twitter.com/IT_Floss"],
-    ["Discord", "https://discord.gg/HNFnB4VKZ9"],
+    ["Discord", "https://discord.com/invite/sysarmy-128531369788833793"],
     ["Facebook", "https://www.facebook.com/itfloss"],
     ["Github", "https://github.com/IT-Floss"],
-    ["Telegram", "https://t.me/joinchat/TizcIKo-ra374ONO"],
+    ["Telegram", "https://t.me/+R8O-ttM9lgdhZWI5"],
+    ["WhatsApp", "https://chat.whatsapp.com/3TnoU4qlV8NFpQXpOF9Eqm"],
   ]
 
 [module]

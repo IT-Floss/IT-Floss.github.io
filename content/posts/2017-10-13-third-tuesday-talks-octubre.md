@@ -21,7 +21,7 @@ categories:
 ---
  
 
-![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+![Fernando Villares](https://itfloss.beer/wp-content/themes/hummingBird/img/fer.jpg)
 
 **DeepWeb**
 -----------
@@ -30,7 +30,7 @@ Vamos a recorrer la DeepWeb de la mano de nuestro experto en seguridad Fernando 
 
 [Descargar presentación](https://goo.gl/4mf6T4)
 
-![Federico Lazcano](https://itfloss.rocks/wp-content/uploads/2017/08/lazcano.png)
+![Federico Lazcano](https://itfloss.beer/wp-content/uploads/2017/08/lazcano.png)
 
 **Tecnologías Electorales**
 ---------------------------

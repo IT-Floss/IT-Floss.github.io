@@ -30,7 +30,7 @@ tags:
 ---
 Nuestra primera iteración en esto que hemos denominado Third Tuesday Talks. En esta ocasión el evento contará con dos temáticas:  
 
-![Damián Pumar](https://itfloss.rocks/wp-content/themes/hummingBird/img/damian_pumar.jpg)
+![Damián Pumar](https://itfloss.beer/wp-content/themes/hummingBird/img/damian_pumar.jpg)
 
 **Sails.js**
 ------------
@@ -39,7 +39,7 @@ Damián Pumar nos muestra las características del Framework Sails.js.
 
 [Descargar presentación](https://goo.gl/hRnviD)
 
-![Matías Barriento](https://itfloss.rocks/wp-content/themes/hummingBird/img/matias_barriento.jpg)
+![Matías Barriento](https://itfloss.beer/wp-content/themes/hummingBird/img/matias_barriento.jpg)
 
 **Flask**
 ---------

@@ -22,9 +22,9 @@ categories:
 ---
 ¿Alguna vez te preguntaste en qué consiste un operativo de seguridad informática? En esta nueva edición de las Third Tuesday Talks, Fernando Villares y Fernando Corvalan nos contarán su experiencia dentro del rubro y cuáles son las soluciones open source implementadas a la hora de cuidar la privacidad y la seguridad en eventos sociales.  
 
-![Fernando Villares](https://itfloss.rocks/wp-content/themes/hummingBird/img/fer.jpg)
+![Fernando Villares](https://itfloss.beer/wp-content/themes/hummingBird/img/fer.jpg)
 
-![Fernando Corvalan](https://itfloss.rocks/wp-content/uploads/2017/07/fernando_corvalan.jpg)
+![Fernando Corvalan](https://itfloss.beer/wp-content/uploads/2017/07/fernando_corvalan.jpg)
 
 **SEC en Eventos**
 ------------------
@@ -38,7 +38,7 @@ Fernando Villares contará su experiencia junto a Fernando Corvalan: Operativo d
 
 Después, Manuel disertará sobre Gamification Engagement. ¿Qué pasaría si jugáramos a vencer la resistencia al cambio? Veremos cómo aunar la pasión por los juegos con la implementación de cambios dentro de la organización aplicando soluciones open source, y cómo se puede jugar a mejorar nuestros hábitos como usuarios y consumidores.
 
-![Manuel Fernandez](https://itfloss.rocks/wp-content/uploads/2017/07/manuel_fernandez.jpeg)
+![Manuel Fernandez](https://itfloss.beer/wp-content/uploads/2017/07/manuel_fernandez.jpeg)
 
 **Gamification Engagement**
 ---------------------------
