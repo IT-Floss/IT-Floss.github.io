@@ -17,7 +17,7 @@ create_adminbirras(){
 
   # Crear adminbirras segun el tipo de archivo definido en archetype/adminbirras.md
   POST=$(hugo new --kind adminbirras eventos/adminbirras/${NOMBRE_ARCHIVO}.md)
-  EVENT_FILE_PATH=$(echo "$POST" | awk '{print $2}' | tr -d '"')
+  EVENT_FILE_PATH=$(echo "$POST" | awk '/Content/ {print $2}' | tr -d '"')
 
   if [[ -f "${EVENT_FILE_PATH}" ]]; then
     # Asignar paramentros  
