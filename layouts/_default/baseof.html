@@ -37,17 +37,7 @@
     {{- template "_internal/twitter_cards.html" . -}}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-80820004-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-80820004-1');
-</script>
-
-      {{ template "_internal/google_analytics_async.html" . }}
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
