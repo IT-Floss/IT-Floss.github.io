@@ -43,11 +43,11 @@ jobs:
       
     steps:
       
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
     - name: checkout a main
       run: git checkout main
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3
+      uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.88.1'
     - name: Run a one-line script
