@@ -43,13 +43,13 @@ jobs:
       
     steps:
       
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
     - name: checkout a main
       run: git checkout main
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.88.1'
+        hugo-version: '0.92.2'
     - name: Run a one-line script
       run: bash -x ./itfloss create adminbirras -f "${{ github.event.inputs.fecha }}" -l "${{ github.event.inputs.lugar }}" -t "${{ github.event.inputs.titulo }}" -n "$(date +%F)"
     - name: switching from HTTPS to SSH
