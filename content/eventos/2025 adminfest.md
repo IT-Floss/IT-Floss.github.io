@@ -13,7 +13,7 @@ lugar: Club Mitre - https://maps.app.goo.gl/5uVB5F8sTtBfMYfY8
 # 🔧☁️🔥 ¡Vuelve el AdminFest! 🔥☁️🔧
 
 Porque todo cambia (IaC, pipelines, releases), pero hay cosas que **ni la IA puede reemplazar... como un buen asado**.  
-**Este viernes 25 a las 20hs los esperamos en el Club Mitre** para levantar las copas, prender el fuego y celebrar un nuevo **AdminFest**.
+**Este viernes 25 a las 20hs los esperamos en el [Club Mitre](https://maps.app.goo.gl/5uVB5F8sTtBfMYfY8)** para levantar las copas, prender el fuego y celebrar un nuevo **AdminFest**.
 
 [**AdminFest**](https://www.adminfest.com/) nació en 2009 de la mano de [**Sysarmy**](https://sysarmy.com.ar/), como homenaje al [**SysAdmin Day**](https://sysadminday.com/) —ese día del año en que se agradece a quienes mantienen los servidores en pie y los servicios corriendo.
 
