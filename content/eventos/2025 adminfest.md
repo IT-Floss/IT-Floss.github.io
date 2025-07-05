@@ -10,7 +10,7 @@ lugar: Club Mitre - https://maps.app.goo.gl/5uVB5F8sTtBfMYfY8
 
 ---
 
-# 🔧☁️🔥 ¡Vuelve el AdminFest! 🔥☁️🔧
+¡Vuelve el AdminFest! 🔥☁️🔧
 
 Porque todo cambia (IaC, pipelines, releases), pero hay cosas que **ni la IA puede reemplazar... como un buen asado**.  
 **Este viernes 25 a las 20hs los esperamos en el [Club Mitre](https://maps.app.goo.gl/5uVB5F8sTtBfMYfY8)** para levantar las copas, prender el fuego y celebrar un nuevo **AdminFest**.
