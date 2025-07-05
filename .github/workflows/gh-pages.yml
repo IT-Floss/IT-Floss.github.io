@@ -5,9 +5,13 @@ on:
     branches:
       - main  # Set a branch to deploy
 
+env:
+  HUGO_services_googleAnalytics_ID: ${{ vars.HUGO_services_googleAnalytics_ID }}
+  HUGO_ENV: "production"
+
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v2
         with:
@@ -17,8 +21,12 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.122.0'
           extended: true
+
+      - name: Display the path
+        shell: bash
+        run: echo $HUGO_services_googleAnalytics_ID
 
       - name: Build
         if: github.repository == 'IT-Floss/IT-Floss.github.io'

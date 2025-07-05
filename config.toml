@@ -140,3 +140,7 @@ a la tecnología de la información.
     pre = "<i class='fa fa-heart'></i>"
     url = "/posts/"
     weight = -80
+
+#[services]
+#  [services.googleAnalytics]
+#    ID = {{ getenv "HUGO_services_googleAnalytics_ID" }}
